@@ -1,4 +1,4 @@
 # curriculumVitae
 
-npm install
+npm install\n
 npm start
